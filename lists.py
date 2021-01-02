@@ -57,3 +57,5 @@ for experimentNumber in range(10000):
 #  Prints the results
 print(spam)
 print(numberOfStreaks)
+
+#[retty cool]
